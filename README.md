@@ -35,19 +35,14 @@ Je suis Alexis, ingénieur en informatique et cybersécurité, diplômé de CPE 
 
 ---
 
-## Expériences professionnelles
+## 💼 Expériences professionnelles
 
-- **Ingénieur logiciel Python (apprenti)** — STMicroelectronics (2022 - 2024)  
-  Développement d’interfaces PyQt pour outils Unix, réduction du temps de configuration de 20%.
-
-- **Ingénieur logiciel instrumentation (stage)** — STMicroelectronics (2023)  
-  Création d’interfaces WPF en Visual Basic .NET pour la communication entre instruments.
-
-- **Ingénieur logiciel tests C++ (stage)** — Thales-Trixell (2022)  
-  Intégration d’un interpréteur Python dans un outil d’acquisition d’images.
-
-- **Développeur web fullstack (stage)** — Orange (2020)  
-  Développement d’une application intranet en PHP/JavaScript/MySQL.
+| Poste                              | Entreprise           | Période         | Réalisations clés                                   |
+|-----------------------------------|----------------------|-----------------|---------------------------------------------------|
+| Ingénieur logiciel Python (apprenti) | STMicroelectronics   | 2022 - 2024     | Développement d’interfaces PyQt, gain de 20% temps configuration |
+| Ingénieur logiciel instrumentation (stage) | STMicroelectronics   | 2023            | Interfaces WPF en VB.NET pour communication instruments |
+| Ingénieur logiciel tests C++ (stage) | Thales-Trixell       | 2022            | Intégration d’un interpréteur Python dans un outil d’acquisition d’images |
+| Développeur web fullstack (stage) | Orange               | 2020            | Application intranet PHP/JavaScript/MySQL          |
 
 ---
 
