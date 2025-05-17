@@ -16,13 +16,22 @@ Je suis Alexis, ingénieur en informatique et cybersécurité, diplômé de CPE 
 
 ---
 
-## Compétences techniques
+## 🛠️ Compétences techniques
 
-| Langages             | Outils & Technologies          | Méthodologies & Concepts           |
-|----------------------|-------------------------------|-----------------------------------|
-| Python, C++, VB.NET  | Git, Docker, GitLab, PyCharm  | Agile, Kanban, CI/CD              |
-| JavaScript           | Qt, PyQt, WPF                 | UML, API REST, Tests unitaires    |
-| SQL                  | Visual Studio, VS Code         | Programmation orientée objet, MVC |
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Visual_Basic_NET-68217A?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VB.NET" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/PyQt-0088CC?style=for-the-badge&logo=python&logoColor=white" alt="PyQt" />
+  <img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
+</div>
 
 ---
 
@@ -60,5 +69,7 @@ Voici quelques idées sur lesquelles je travaille actuellement :
 
 ---
 
-Merci de votre visite, n’hésitez pas à me contacter ou à suivre mes projets ici !
+<div align="center">
+  <em>Merci de votre visite, n'hésitez pas à me contacter ou à suivre mes projets ici !</em>
+</div>
 
