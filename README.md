@@ -4,7 +4,6 @@
 
 <h1 align="center">
   Salut, je suis Alexis Revol 
-  <img src="https://media.giphy.com/media/1kTNp2cUtA5M4/giphy.gif" width="5%">
 </h1>
 
 <p align="center">
