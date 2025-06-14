@@ -1,70 +1,76 @@
-# Alexis REVOL - Portfolio
+<!-- 
+Salut Alexis !
+Voici ton nouveau README. N'hésite pas à le personnaliser !
+- Pour les statistiques, j'ai supposé que ton nom d'utilisateur est "Alexis-REVOL". Si ce n'est pas le cas, remplace-le dans les URLs.
+- Tu peux ajouter un lien vers un site personnel ou ton CV dans les badges de contact.
+-->
 
-Bienvenue sur mon portfolio !  
-Je suis Alexis, ingénieur en informatique et cybersécurité, diplômé de CPE Lyon, passionné par le développement logiciel, particulièrement en Python et développement fullstack.
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+</div>
+
+<h1 align="center">
+  Salut, je suis Alexis Revol 
+  <img src="https://media.giphy.com/media/1kTNp2cUtA5M4/giphy.gif" width="5%">
+</h1>
+
+<p align="center">
+  <b>Ingénieur en développement logiciel </b> <br>
+  🎓 Diplômé de CPE Lyon (Major de promo 2024) et passionné par la création de solutions logicielles performantes. <br>
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alexis-revol" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
-## À propos de moi
-
-- 🎓 Diplômé de CPE Lyon, major de promotion (2024)  
-- 🔐 Spécialisé en développement logiciel  
-- 💻 Expériences en développement Python, C++, Visual Basic .NET, JavaScript  
-- ⚙️ Méthodes Agile, CI/CD, Git, Docker  
-- 🌍 Basé à Grenoble, France  
-- 🥋 Ceinture noire 1er DAN de Karaté
+### 📌 Projets Épinglés
+<p align="left">
+  <a href="[JobTracker](https://github.com/AlexisRevol/job-tracker)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisRevol&repo=job-tracker&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Compétences techniques
+### 🛠️ Technologies et Outils
 
-<div>
+<p align="left">
+  <strong>Langages :</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Visual_Basic_NET-68217A?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VB.NET" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Visual_Basic_.NET-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VB.NET" />
+  
+  <br><strong>Frameworks & Librairies :</strong><br>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
   <img src="https://img.shields.io/badge/PyQt-0088CC?style=for-the-badge&logo=python&logoColor=white" alt="PyQt" />
   <img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
+  <!-- Ajoute d'autres frameworks comme Django, Flask, React, etc. quand tu les maîtriseras -->
+
+  <br><strong>Outils & DevOps :</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" />
-</div>
+  <img src="https://img.shields.io/badge/CI/CD-0052CC?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Agile-Scrum-0099D8?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
+</p>
 
 ---
 
-## 💼 Expériences professionnelles
+### 📊 Mes Statistiques GitHub
 
-| Poste                              | Entreprise           | Période         | Réalisations clés                                   |
-|-----------------------------------|----------------------|-----------------|---------------------------------------------------|
-| Ingénieur logiciel Python (apprenti) | STMicroelectronics   | 2022 - 2024     | Développement d’interfaces PyQt, gain de 20% temps configuration |
-| Ingénieur logiciel instrumentation (stage) | STMicroelectronics   | 2023            | Interfaces WPF en VB.NET pour communication instruments |
-| Ingénieur logiciel tests C++ (stage) | Thales-Trixell       | 2022            | Intégration d’un interpréteur Python dans un outil d’acquisition d’images |
-| Développeur web fullstack (stage) | Orange               | 2020            | Application intranet PHP/JavaScript/MySQL          |
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexisRevol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub d'Alexis Revol" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisRevol&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés par Alexis Revol" />
+</p>
 
 ---
 
-## Projets
-
-*Les projets seront ajoutés prochainement !*  
-Voici quelques idées sur lesquelles je travaille actuellement :
-
-- Automatisation d’outils internes en Python  
-- Développement d’une application web fullstack  
-- Contribution à des projets open-source autour de la cybersécurité  
-
----
-
-## Contact
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/alexis-revol)  
-- 📍 France  
-
----
-
-<div align="center">
-  <em>Merci de votre visite, n'hésitez pas à me contacter ou à suivre mes projets ici !</em>
-</div>
-
+<p align="center">
+  <em>Merci pour votre visite ! N'hésitez pas à me contacter ou à suivre mes projets.</em>
+</p>
