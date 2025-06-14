@@ -1,10 +1,3 @@
-<!-- 
-Salut Alexis !
-Voici ton nouveau README. N'hésite pas à le personnaliser !
-- Pour les statistiques, j'ai supposé que ton nom d'utilisateur est "Alexis-REVOL". Si ce n'est pas le cas, remplace-le dans les URLs.
-- Tu peux ajouter un lien vers un site personnel ou ton CV dans les badges de contact.
--->
-
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </div>
