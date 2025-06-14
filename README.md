@@ -19,12 +19,6 @@ Voici ton nouveau README. N'hésite pas à le personnaliser !
   🎓 Diplômé de CPE Lyon (Major de promo 2024) et passionné par la création de solutions logicielles performantes. <br>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexis-revol" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
 ---
 
 ### 📌 Projets Épinglés
