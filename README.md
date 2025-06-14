@@ -29,7 +29,7 @@ Voici ton nouveau README. N'hésite pas à le personnaliser !
 
 ### 📌 Projets Épinglés
 <p align="left">
-  <a href="[JobTracker](https://github.com/AlexisRevol/job-tracker)">
+  <a href="https://github.com/AlexisRevol/job-tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisRevol&repo=job-tracker&theme=tokyonight" />
   </a>
 </p>
