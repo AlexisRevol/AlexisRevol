@@ -26,6 +26,10 @@ Voici ton nouveau README. N'hésite pas à le personnaliser !
   <a href="https://github.com/AlexisRevol/job-tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisRevol&repo=job-tracker&theme=tokyonight" />
   </a>
+
+  <a href="https://github.com/AlexisRevol/job-search-userscripts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisRevol&repo=job-search-userscripts&theme=tokyonight" />
+  </a>
 </p>
 
 ---
