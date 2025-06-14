@@ -16,11 +16,11 @@
 ### 📌 Projets Épinglés
 <p align="left">
   <a href="https://github.com/AlexisRevol/job-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisRevol&repo=job-tracker&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisRevol&repo=job-tracker&theme=tokyonight&cache_seconds=1800" />
   </a>
 
   <a href="https://github.com/AlexisRevol/job-search-userscripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisRevol&repo=job-search-userscripts&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisRevol&repo=job-search-userscripts&theme=tokyonight&cache_seconds=1800" />
   </a>
 </p>
 
@@ -49,8 +49,8 @@
 ### 📊 Mes Statistiques GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexisRevol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub d'Alexis Revol" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisRevol&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés par Alexis Revol" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexisRevol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Statistiques GitHub d'Alexis Revol" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisRevol&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Langages les plus utilisés par Alexis Revol" />
 </p>
 
 ---
