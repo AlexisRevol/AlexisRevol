@@ -2,7 +2,7 @@
   <h1 align="center">Hello, I'm Alexis  👋</h1>
   
 <p align="center">
-  <img src="https://profile-card-generator-pi.vercel.app/api/card?user=AlexisRevol&template=dark" alt="Carte de profil GitHub de AlexisRevol" width="270" />
+  <img src="https://profile-card-generator-pi.vercel.app/api/card?user=AlexisRevol&template=dark" alt="Carte de profil GitHub de AlexisRevol" width="290" />
 </p>
 
 <p align="center">
